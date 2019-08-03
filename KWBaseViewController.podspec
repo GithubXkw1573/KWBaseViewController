@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KWBaseViewController'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '通用业务基础父控制器.'
 
 # This description is used to generate tags and improve search results.
@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
   s.source_files = 'KWBaseViewController/Classes/**/*'
   
   s.resource_bundles = {
-    'KWBaseViewController' => ['KWBaseViewController/Assets/**/*']
+    'KWBaseViewController' => ['KWBaseViewController/Assets/*.png']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'

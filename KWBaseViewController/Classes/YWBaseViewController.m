@@ -184,9 +184,9 @@
 - (NSMutableArray *)refreshImages {
     NSMutableArray *refreshImages = [[NSMutableArray alloc] init];
     //                循环添加图片
-    for (NSUInteger i = 1; i <= 35; i++ ) {
+    for (NSUInteger i = 1; i <= 20; i++ ) {
         UIImage *image = [UIImage imageNamed:[NSString stringWithFormat:@"wowo_refresh_%lu", (unsigned long)i]];
-        [refreshImages addObject:image];
+        [refreshImages safeAddObject:image];
     }
     return refreshImages;
 }
@@ -204,7 +204,7 @@
     //                循环添加图片
     for (NSUInteger i = 1; i <= 12; i++ ) {
         UIImage *image = [UIImage imageNamed:[NSString stringWithFormat:@"im_activity_%ld", i]];
-        [refreshImages addObject:image];
+        [refreshImages safeAddObject:image];
     }
     return refreshImages;
 }
