@@ -59,7 +59,7 @@ SPEC CHECKSUMS:
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  KWBaseViewController: 164e6a127aa180c1e123e24397863ee9010ac80f
+  KWBaseViewController: 0253fbce553d995fbfb3f379c520d796d34436e3
   KWCategoriesLib: 8a49292a7df301afdde715eaa1c4ec85a792f57d
   KWLogger: 661e953e8b7e8ef5a4f6352865bdcfbdb6dac1ad
   KWOCMacroDefinite: fd3ebc35a04be6a8d56f78415a1492aebbda3ef0
