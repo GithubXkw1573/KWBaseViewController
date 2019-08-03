@@ -1,0 +1,6 @@
+framework module KWPublicUISDK {
+  umbrella header "KWPublicUISDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

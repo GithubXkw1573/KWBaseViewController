@@ -1,0 +1,33 @@
+{
+  "name": "KWBaseViewController",
+  "version": "0.1.0",
+  "summary": "通用业务基础父控制器.",
+  "description": "通用业务基础父控制器",
+  "homepage": "https://github.com/GithubXkw1573/KWBaseViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GithubXkw1573": "1074030698@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/GithubXkw1573/KWBaseViewController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KWBaseViewController/Classes/**/*",
+  "dependencies": {
+    "KWPublicUISDK": [
+      "~> 0.1.1"
+    ],
+    "KWLogger": [
+
+    ],
+    "MJRefresh": [
+      "~> 3.1.15.1"
+    ]
+  }
+}

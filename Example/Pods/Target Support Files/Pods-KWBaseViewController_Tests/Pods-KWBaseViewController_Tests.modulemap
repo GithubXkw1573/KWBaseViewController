@@ -1,0 +1,6 @@
+framework module Pods_KWBaseViewController_Tests {
+  umbrella header "Pods-KWBaseViewController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
