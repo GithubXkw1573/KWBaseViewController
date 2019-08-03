@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "YWNaviBarView.h"
-#import "MJRefreshStateHeader.h"
-#import "MJRefreshAutoStateFooter.h"
+#import <MJRefresh/MJRefresh.h>
 
 typedef NS_ENUM(NSInteger, KWLoadType) {
     KWLoadTypeRefresh =0,//刷新
