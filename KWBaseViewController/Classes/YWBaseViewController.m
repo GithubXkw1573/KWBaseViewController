@@ -9,7 +9,6 @@
 #import "YWBaseViewController.h"
 #import <KWCategoriesLib/NSArray+Safe.h>
 #import <KWLogger/KWLogger.h>
-#import <KWPublicUISDK/PublicHeader.h>
 
 @interface YWBaseViewController ()<UIGestureRecognizerDelegate>
 

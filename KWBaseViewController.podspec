@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KWBaseViewController'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = '通用业务基础父控制器.'
 
 # This description is used to generate tags and improve search results.

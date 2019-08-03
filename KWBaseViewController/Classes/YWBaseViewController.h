@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "YWNaviBarView.h"
+#import <KWPublicUISDK/PublicHeader.h>
 #import <MJRefresh/MJRefresh.h>
 
 typedef NS_ENUM(NSInteger, KWLoadType) {
